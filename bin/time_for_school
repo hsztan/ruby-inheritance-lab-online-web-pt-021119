@@ -23,5 +23,5 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Brown"
 
-steve.learn(avi.teach
+steve.learn(avi.teach)
 puts steve.knowledge
